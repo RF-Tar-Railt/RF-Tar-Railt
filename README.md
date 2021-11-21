@@ -20,6 +20,6 @@ _mi no edar vail nihil_
   
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RF-Tar-Railt&layout=compact&theme=dracula&hide_border=true">
   
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=RF-Tar-Railt&show_icons=true&theme=dracula&hide_border=true">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=RF-Tar-Railt&show_icons=true&theme=dracula&hide_border=true">
   
 </a>
