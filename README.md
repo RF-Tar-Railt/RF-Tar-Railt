@@ -10,6 +10,7 @@ _mi no edar vail nihil_
 <div align="left">
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ArcletProject&repo=Alconna&theme=dracula&hide_border=true)](https://github.com/ArcletProject/Alconna)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ArcletProject&repo=Edoves&theme=dracula&hide_border=true)](https://github.com/ArcletProject/Edoves)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RF-Tar-Railt&repo=Cesloi&theme=dracula&hide_border=true)](https://github.com/RF-Tar-Railt/Cesloi)
 
 </div>
