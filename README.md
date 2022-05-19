@@ -1,6 +1,6 @@
 <div align="center">
   
-# Here is RF-Tar-Railt
+# Called RF-Tar-Railt
 _mi no edar vail nihil_
   
 </div>
@@ -19,8 +19,8 @@ _mi no edar vail nihil_
 
 <a href=#>
   
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RF-Tar-Railt&layout=compact&theme=dracula&hide_border=true">
-  
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=RF-Tar-Railt&show_icons=true&theme=dracula&hide_border=true">
+  </br>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=Tarrailt&layout=compact&theme=dracula&hide_border=true">
   
 </a>
