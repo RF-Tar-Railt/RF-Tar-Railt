@@ -11,7 +11,7 @@ _mi no edar vail nihil_
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ArcletProject&repo=Alconna&theme=dracula&hide_border=true)](https://github.com/ArcletProject/Alconna)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ArcletProject&repo=Edoves&theme=dracula&hide_border=true)](https://github.com/ArcletProject/Edoves)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RF-Tar-Railt&repo=Cesloi&theme=dracula&hide_border=true)](https://github.com/RF-Tar-Railt/Cesloi)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RF-Tar-Railt&repo=Cesloi&theme=dracula&hide_border=true)](https://github.com/RF-Tar-Railt/cli-lite)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RF-Tar-Railt&repo=RaianBot&theme=dracula&hide_border=true)](https://github.com/RF-Tar-Railt/RaianBot)
 
 </div>
