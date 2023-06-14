@@ -28,7 +28,7 @@ jobs:
           filename: left.svg
           user: RF-Tar-Railt
           template: classic
-          base: header, activity, community, repositories, metadata
+          base: header, activity, community, repositories
           config_timezone: Asia/Shanghai
           plugin_followup: yes
           plugin_followup_archived: yes
@@ -41,7 +41,7 @@ jobs:
           plugin_languages_categories: markup, programming
           plugin_languages_colors: github
           plugin_languages_limit: 8
-          plugin_languages_other: yes
+          plugin_languages_skipped: ArcletProject/ArcletProject.github.io
           plugin_languages_recent_categories: markup, programming
           plugin_languages_recent_days: 14
           plugin_languages_recent_load: 300
@@ -75,7 +75,7 @@ jobs:
             filename: right.svg
             user: RF-Tar-Railt
             template: classic
-            base: ""
+            base: metadata
             config_timezone: Asia/Shanghai
             plugin_achievements: yes
             plugin_achievements_display: detailed
@@ -87,10 +87,3 @@ jobs:
             plugin_activity_limit: 6
             plugin_activity_load: 300
             plugin_activity_visibility: all
-            plugin_steam: yes
-            plugin_steam_achievements_limit: 2
-            plugin_steam_games_limit: 3
-            plugin_steam_playtime_threshold: 2
-            plugin_steam_recent_games_limit: 3
-            plugin_steam_sections: player, most-played, recently-played
-            plugin_steam_user: 76561199090586537
