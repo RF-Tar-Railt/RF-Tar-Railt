@@ -16,7 +16,8 @@ _mi no edar víl nihil_
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=RF-Tar-Railt&show_icons=true&theme=dracula&hide_border=true">
 
 ## Link
-
+[![wakatime](https://wakatime.com/badge/user/cf506f2c-c080-41a1-9bb9-f603a547297f.svg)](https://wakatime.com/@cf506f2c-c080-41a1-9bb9-f603a547297f)
+</br>
 <a href="mailto:rf_tar_railt@qq.com">Email</a> | 
 <a href="https://wpa.qq.com/msgrd?v=3&uin=3165388245&site=qqq&menu=yes">QQ</a> | 
 <a href="https://space.bilibili.com/356339754">Bilibili</a>
