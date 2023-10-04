@@ -628,7 +628,7 @@ Fix: Discord 斜杠命令正确转换</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 1.06m out of 49.7m repositories</span>
+                                    <span class="gh">ranked 1.06m out of 48.2m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 21 stars</div>
                             </div>
@@ -736,7 +736,7 @@ Fix: Discord 斜杠命令正确转换</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 4.14m out of 49.7m repositories</span>
+                                    <span class="gh">ranked 4.52m out of 48.2m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 1 time</div>
                             </div>
@@ -824,7 +824,7 @@ Fix: Discord 斜杠命令正确转换</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 4 Oct 2023, 14:20:50 (timezone Asia/Shanghai) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 4 Oct 2023, 20:31:37 (timezone Asia/Shanghai) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
