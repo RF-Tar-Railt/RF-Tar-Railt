@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1493" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1513" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}.gauge text,h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.gauge{stroke-linecap:round;fill:none}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.repository{display:flex;flex-direction:column;width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}.achievement{display:flex;margin:4px 0}.achievement .icon{margin:0 4px;width:44px;height:44px}.achievement .text{font-size:12px;color:#666}.achievement .title{font-size:14px;color:#58a6ff}.achievement .gauge.info{color:#58a6ff}.achievement.x .title{color:#666}.achievement.x .gauge.info{color:#b0b0b0}.achievement.b .title{color:#9d8fff}.achievement.b .gauge.info{color:#9e91ff}.achievement.a .title{color:#d79533}.achievement.a .gauge.info{color:#e7bd69}.achievement.secret .title{color:#ff76cd}.achievement.secret .gauge.info{color:#ff79d1}.achievement .gh{border:1px solid currentColor;border-radius:16px;font-size:10px;padding:0 5px;white-space:nowrap}.achievement .gauge-arc,.achievement .gauge-base{stroke-width:6}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}code[class^=language-]{white-space:pre-wrap;width:97%;margin-top:4px}.token.comment{color:#690}.token.punctuation{color:#8a93a8}.token.keyword{color:#b44418}.token.string{color:#2777aa}.token.builtin{color:#106cbc}.token.trimmed{font-style:italic;color:#77777760}.space{margin-left:7px}.gemoji{height:1em;width:1em;margin-bottom:-.125em}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}.gauge text,h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.warning{color:#d79533}.field.warning svg{fill:#d79533}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.gauge{stroke-linecap:round;fill:none}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.repository{display:flex;flex-direction:column;width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}.achievement{display:flex;margin:4px 0}.achievement .icon{margin:0 4px;width:44px;height:44px}.achievement .text{font-size:12px;color:#666}.achievement .title{font-size:14px;color:#58a6ff}.achievement .gauge.info{color:#58a6ff}.achievement.x .title{color:#666}.achievement.x .gauge.info{color:#b0b0b0}.achievement.b .title{color:#9d8fff}.achievement.b .gauge.info{color:#9e91ff}.achievement.a .title{color:#d79533}.achievement.a .gauge.info{color:#e7bd69}.achievement.secret .title{color:#ff76cd}.achievement.secret .gauge.info{color:#ff79d1}.achievement .gh{border:1px solid currentColor;border-radius:16px;font-size:10px;padding:0 5px;white-space:nowrap}.achievement .gauge-arc,.achievement .gauge-base{stroke-width:6}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}code[class^=language-]{white-space:pre-wrap;width:97%;margin-top:4px}.token.comment{color:#690}.token.punctuation{color:#8a93a8}.token.keyword{color:#b44418}.token.boolean,.token.string{color:#2777aa}.token.builtin,.token.operator{color:#106cbc}.token.trimmed{font-style:italic;color:#77777760}.space{margin-left:7px}.gemoji{height:1em;width:1em;margin-bottom:-.125em}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -15,6 +15,49 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path d="M11.28 6.78a.75.75 0 00-1.06-1.06L7.25 8.69 5.78 7.22a.75.75 0 00-1.06 1.06l2 2a.75.75 0 001.06 0l3.5-3.5z"/>
+                                        <path fill-rule="evenodd" d="M16 8A8 8 0 110 8a8 8 0 0116 0zm-1.5 0a6.5 6.5 0 11-13 0 6.5 6.5 0 0113 0z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Closed
+                                        <span class="issue">#16 [Bug] Callable args 不会调用 func</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by shoucandanghehe in <span class="repo">nonebot/plugin-alconna</span></div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Commented on
+                                        <span class="issue">#16 [Bug] Callable args 不会调用 func</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by shoucandanghehe in <span class="repo">nonebot/plugin-alconna</span></div>
+                                    <div class="comment">
+                                        <code class="language-multiline language-python" xml:space="preserve"><span class="token keyword">def</span> <span class="token function">check</span><span class="token punctuation">(</span>name<span class="token punctuation">:</span> <span class="token builtin">str</span><span class="token punctuation">)</span> <span class="token operator">-</span><span class="token operator">&gt;</span> <span class="token builtin">str</span> <span class="token operator">|</span> <span class="token boolean">None</span><span class="token punctuation">:</span>
+    logger<span class="token punctuation">.</span>warning<span class="token punctuation">(</span><span class="token string">'check running'</span><span class="token punctuation">)</span>
+<span class="token trimmed">(3 more lines were trimmed)</span></code>
+                                        在 alc 下，Callable arg 会被翻译为如下形式：
+                                        <code class="language-multiline language-python" xml:space="preserve">pat <span class="token operator">=</span> BasePattern<span class="token punctuation">(</span>
+    origin<span class="token operator">=</span>func<span class="token punctuation">.</span>return_annotation<span class="token punctuation">,</span>
+<span class="token trimmed">(3 more lines were trimmed)</span></code>
+                                        由内部逻辑，若传入的参数符合 origin (例如传入 str, 其符合 str | None)，那么该参数直接返回，不经过 converter
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -91,40 +134,6 @@
                                         <div class="sha">#7969458</div>
                                         <div class="message"><img class="gemoji" src="data:image/png;base64,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" height="16" width="16" alt="" /> add qqguild test</div>
                                     </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Commented on
-                                        <span class="issue">#16 [Bug] Callable args 不会调用 func</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by shoucandanghehe in <span class="repo">nonebot/plugin-alconna</span></div>
-                                    <div class="comment">感觉或许是适配器的问题</div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Commented on
-                                        <span class="issue">#16 [Bug] Callable args 不会调用 func</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by shoucandanghehe in <span class="repo">nonebot/plugin-alconna</span></div>
-                                    <div class="comment">我本地试是能出来的</div>
                                 </div>
                             </section>
                         </div>
@@ -254,7 +263,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="0.0848733744010941 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="0.1697467488021882 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -587,7 +596,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 863k out of 76m repositories</span>
+                                    <span class="gh">ranked 863k out of 82.2m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 28 stars</div>
                             </div>
@@ -695,7 +704,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 5.02m out of 76m repositories</span>
+                                    <span class="gh">ranked 5.02m out of 82.2m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 1 time</div>
                             </div>
@@ -783,7 +792,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 23 Oct 2023, 20:30:34 (timezone Asia/Shanghai) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 24 Oct 2023, 02:19:27 (timezone Asia/Shanghai) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
