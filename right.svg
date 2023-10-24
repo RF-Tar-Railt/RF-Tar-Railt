@@ -313,7 +313,7 @@ resolve #4
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     developer
-                                    <span class="gh">ranked 650k out of 122m users</span>
+                                    <span class="gh">ranked 651k out of 122m users</span>
                                 </div>
                                 <div class="text">Published 49 public repositories</div>
                             </div>
@@ -585,7 +585,7 @@ resolve #4
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 863k out of 85.1m repositories</span>
+                                    <span class="gh">ranked 863k out of 81.4m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 28 stars</div>
                             </div>
@@ -693,7 +693,7 @@ resolve #4
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 5.02m out of 85.1m repositories</span>
+                                    <span class="gh">ranked 5.02m out of 81.4m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 1 time</div>
                             </div>
@@ -781,7 +781,7 @@ resolve #4
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 24 Oct 2023, 14:21:09 (timezone Asia/Shanghai) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 24 Oct 2023, 20:29:31 (timezone Asia/Shanghai) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
