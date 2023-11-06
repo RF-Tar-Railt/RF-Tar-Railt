@@ -20,7 +20,8 @@ _mi no edar víl nihil_
 </br>
 <a href="mailto:rf_tar_railt@qq.com">Email</a> | 
 <a href="https://wpa.qq.com/msgrd?v=3&uin=3165388245&site=qqq&menu=yes">QQ</a> | 
-<a href="https://space.bilibili.com/356339754">Bilibili</a>
+<a href="https://space.bilibili.com/356339754">Bilibili</a> |
+<a href="https://twitter.com/dunnoaskrf">Twitter</a>
 
 ## Language
 
