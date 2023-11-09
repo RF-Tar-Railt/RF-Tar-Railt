@@ -280,7 +280,7 @@ enhance AlconnaMatcher
                                 <div class="title">
                                     <span class="prefix">Super</span>
                                     developer
-                                    <span class="gh">ranked 611k out of 125m users</span>
+                                    <span class="gh">ranked 611k out of 124m users</span>
                                 </div>
                                 <div class="text">Published 51 public repositories</div>
                             </div>
@@ -476,7 +476,7 @@ enhance AlconnaMatcher
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 296k out of 125m users</span>
+                                    <span class="gh">ranked 296k out of 124m users</span>
                                 </div>
                                 <div class="text">Followed by 40 users</div>
                             </div>
@@ -588,7 +588,7 @@ enhance AlconnaMatcher
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 753k out of 48.2m repositories</span>
+                                    <span class="gh">ranked 753k out of 46.8m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 34 stars</div>
                             </div>
@@ -696,7 +696,7 @@ enhance AlconnaMatcher
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 3.95m out of 48.2m repositories</span>
+                                    <span class="gh">ranked 4.43m out of 46.8m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 1 time</div>
                             </div>
@@ -784,7 +784,7 @@ enhance AlconnaMatcher
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 9 Nov 2023, 02:19:51 (timezone Asia/Shanghai) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 9 Nov 2023, 09:07:43 (timezone Asia/Shanghai) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
