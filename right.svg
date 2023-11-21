@@ -589,7 +589,7 @@ fix AlconnaMatcher.HANDLE_PARAM_TYPES
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 740k out of 60.4m repositories</span>
+                                    <span class="gh">ranked 740k out of 52.2m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 35 stars</div>
                             </div>
@@ -697,7 +697,7 @@ fix AlconnaMatcher.HANDLE_PARAM_TYPES
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 5.08m out of 60.4m repositories</span>
+                                    <span class="gh">ranked 5.07m out of 52.2m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 1 time</div>
                             </div>
@@ -785,7 +785,7 @@ fix AlconnaMatcher.HANDLE_PARAM_TYPES
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 21 Nov 2023, 09:11:30 (timezone Asia/Shanghai) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 21 Nov 2023, 14:21:15 (timezone Asia/Shanghai) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
