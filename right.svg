@@ -282,7 +282,7 @@ Co-authored-by: pre-commit-ci[bot] &lt;66853113+pre-commit-ci[bot]@users.noreply
                                 <div class="title">
                                     <span class="prefix">Super</span>
                                     developer
-                                    <span class="gh">ranked 586k out of 128m users</span>
+                                    <span class="gh">ranked 586k out of 126m users</span>
                                 </div>
                                 <div class="text">Published 53 public repositories</div>
                             </div>
@@ -478,7 +478,7 @@ Co-authored-by: pre-commit-ci[bot] &lt;66853113+pre-commit-ci[bot]@users.noreply
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 280k out of 128m users</span>
+                                    <span class="gh">ranked 280k out of 126m users</span>
                                 </div>
                                 <div class="text">Followed by 43 users</div>
                             </div>
@@ -590,7 +590,7 @@ Co-authored-by: pre-commit-ci[bot] &lt;66853113+pre-commit-ci[bot]@users.noreply
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 682k out of 55.9m repositories</span>
+                                    <span class="gh">ranked 683k out of 51.1m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 40 stars</div>
                             </div>
@@ -698,7 +698,7 @@ Co-authored-by: pre-commit-ci[bot] &lt;66853113+pre-commit-ci[bot]@users.noreply
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 5.11m out of 55.9m repositories</span>
+                                    <span class="gh">ranked 4.78m out of 51.1m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 1 time</div>
                             </div>
@@ -786,7 +786,7 @@ Co-authored-by: pre-commit-ci[bot] &lt;66853113+pre-commit-ci[bot]@users.noreply
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 12 Jan 2024, 14:21:32 (timezone Asia/Shanghai) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 12 Jan 2024, 20:30:03 (timezone Asia/Shanghai) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
