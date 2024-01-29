@@ -581,7 +581,7 @@ support specific event type for wait
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 675k out of 73.6m repositories</span>
+                                    <span class="gh">ranked 675k out of 62m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 41 stars</div>
                             </div>
@@ -689,7 +689,7 @@ support specific event type for wait
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 5.13m out of 73.6m repositories</span>
+                                    <span class="gh">ranked 5.13m out of 62m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 1 time</div>
                             </div>
@@ -812,7 +812,7 @@ support specific event type for wait
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 29 Jan 2024, 14:19:49 (timezone Asia/Shanghai) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 29 Jan 2024, 20:27:45 (timezone Asia/Shanghai) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
