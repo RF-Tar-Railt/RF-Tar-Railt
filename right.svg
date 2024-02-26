@@ -585,7 +585,7 @@ fix CI test
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 647k out of 75.2m repositories</span>
+                                    <span class="gh">ranked 647k out of 83.6m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 44 stars</div>
                             </div>
@@ -662,7 +662,7 @@ fix CI test
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 3.43m out of 75.2m repositories</span>
+                                    <span class="gh">ranked 3.43m out of 83.6m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 2 times</div>
                             </div>
@@ -816,7 +816,7 @@ fix CI test
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 26 Feb 2024, 02:18:05 (timezone Asia/Shanghai) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 26 Feb 2024, 09:07:05 (timezone Asia/Shanghai) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
