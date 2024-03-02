@@ -583,7 +583,7 @@ upgrade Alconna
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 637k out of 68.5m repositories</span>
+                                    <span class="gh">ranked 637k out of 70.8m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 45 stars</div>
                             </div>
@@ -660,7 +660,7 @@ upgrade Alconna
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 3.44m out of 68.5m repositories</span>
+                                    <span class="gh">ranked 3.44m out of 70.8m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 2 times</div>
                             </div>
@@ -814,7 +814,7 @@ upgrade Alconna
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 2 Mar 2024, 14:20:19 (timezone Asia/Shanghai) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 2 Mar 2024, 20:25:27 (timezone Asia/Shanghai) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
