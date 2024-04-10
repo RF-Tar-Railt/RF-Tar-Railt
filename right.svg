@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1350" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1414" class="">
     <defs>
         <style/>
     </defs>
@@ -15,6 +15,32 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Commented on
+                                        <span class="issue">#2636 Adapter: RocketChat</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by IllTamer in <span class="repo">nonebot/nonebot2</span></div>
+                                    <div class="comment">
+                                        <i>
+                                            <i>#2435 你可以阅读参考一下这个
+以及请问后续你有打算完善消息段吗，我看你目前只写了text但是注释里已经有emoji，mention等元素了</i>
+                                            感谢您的分享。
+我后续会陆续完善其他监听事件的转换。事实上，Rocket.Chat 的消息发送格式较为特殊：对于支持文本内解析的消息段（如 emoji，@ 类型消息等），我会在后续更新中增加对应消息段的构建方法；对于期望发送其他类型消息的开发者，他们应该通过调用对应平台 API 的方式来实现，而非寄希望于适配器支持解析类似 onebot 协议的消息段。
+以上是我的观点，如果您有任何好的想法，我也很愿意进一步交流^ω^
+                                        </i>
+                                        能够发送基础的那些消息内容（文字，emoji，@，图片）就好了，并不是强制要求所有类型消息都要塞在MessageSegment
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -99,21 +125,6 @@ drop dataclass
                       tag
                                         <span class="code">v0.10.4</span>
                                         in
-                                        <span class="repo">nonebot/adapter-satori</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M8.878.392a1.75 1.75 0 00-1.756 0l-5.25 3.045A1.75 1.75 0 001 4.951v6.098c0 .624.332 1.2.872 1.514l5.25 3.045a1.75 1.75 0 001.756 0l5.25-3.045c.54-.313.872-.89.872-1.514V4.951c0-.624-.332-1.2-.872-1.514L8.878.392zM7.875 1.69a.25.25 0 01.25 0l4.63 2.685L8 7.133 3.245 4.375l4.63-2.685zM2.5 5.677v5.372c0 .09.047.171.125.216l4.625 2.683V8.432L2.5 5.677zm6.25 8.271l4.625-2.683a.25.25 0 00.125-.216V5.677L8.75 8.432v5.516z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Released
-                                        <span class="bold">Adapter Satori 0.10.4</span>
-                                        of
                                         <span class="repo">nonebot/adapter-satori</span>
                                     </div>
                                 </div>
@@ -285,7 +296,7 @@ drop dataclass
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="1.5277207392197214 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="1.6125941136208155 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -613,7 +624,7 @@ drop dataclass
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 617k out of 189m repositories</span>
+                                    <span class="gh">ranked 617k out of 196m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 48 stars</div>
                             </div>
@@ -690,7 +701,7 @@ drop dataclass
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 3.47m out of 189m repositories</span>
+                                    <span class="gh">ranked 3.47m out of 196m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 2 times</div>
                             </div>
@@ -809,7 +820,7 @@ drop dataclass
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 10 Apr 2024, 20:28:37 (timezone Asia/Shanghai) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 11 Apr 2024, 02:21:31 (timezone Asia/Shanghai) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
