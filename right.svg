@@ -624,7 +624,7 @@ drop dataclass
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 617k out of 196m repositories</span>
+                                    <span class="gh">ranked 617k out of 195m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 48 stars</div>
                             </div>
@@ -701,7 +701,7 @@ drop dataclass
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 3.47m out of 196m repositories</span>
+                                    <span class="gh">ranked 3.47m out of 195m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 2 times</div>
                             </div>
@@ -820,7 +820,7 @@ drop dataclass
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 11 Apr 2024, 02:21:31 (timezone Asia/Shanghai) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 11 Apr 2024, 09:07:42 (timezone Asia/Shanghai) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
