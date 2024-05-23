@@ -627,7 +627,7 @@ on_command方法里面的这个参数：aliases</i>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 582k out of 197m repositories</span>
+                                    <span class="gh">ranked 582k out of 195m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 53 stars</div>
                             </div>
@@ -704,7 +704,7 @@ on_command方法里面的这个参数：aliases</i>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 3.50m out of 197m repositories</span>
+                                    <span class="gh">ranked 3.50m out of 195m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 2 times</div>
                             </div>
@@ -823,7 +823,7 @@ on_command方法里面的这个参数：aliases</i>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 23 May 2024, 14:23:48 (timezone Asia/Shanghai) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 23 May 2024, 20:30:47 (timezone Asia/Shanghai) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
