@@ -589,7 +589,7 @@ nonebot/adapters/satori/message.py
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 558k out of 203m repositories</span>
+                                    <span class="gh">ranked 558k out of 204m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 56 stars</div>
                             </div>
@@ -701,7 +701,7 @@ nonebot/adapters/satori/message.py
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 3.51m out of 203m repositories</span>
+                                    <span class="gh">ranked 3.51m out of 204m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 2 times</div>
                             </div>
@@ -820,7 +820,7 @@ nonebot/adapters/satori/message.py
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 27 May 2024, 02:20:04 (timezone Asia/Shanghai) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 27 May 2024, 09:12:28 (timezone Asia/Shanghai) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
