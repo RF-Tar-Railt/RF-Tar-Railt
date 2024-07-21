@@ -632,7 +632,7 @@ specify recursive_guard as kwarg in FutureRef._evaluate
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 480k out of 214m repositories</span>
+                                    <span class="gh">ranked 480k out of 210m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 70 stars</div>
                             </div>
@@ -678,7 +678,7 @@ specify recursive_guard as kwarg in FutureRef._evaluate
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 2.71m out of 214m repositories</span>
+                                    <span class="gh">ranked 2.71m out of 210m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 3 times</div>
                             </div>
@@ -828,7 +828,7 @@ specify recursive_guard as kwarg in FutureRef._evaluate
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 21 Jul 2024, 09:21:37 (timezone Asia/Shanghai) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 21 Jul 2024, 14:24:37 (timezone Asia/Shanghai) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
