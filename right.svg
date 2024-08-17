@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1376" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2023" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}.gauge text,h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.gauge{stroke-linecap:round;fill:none}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.repository{display:flex;flex-direction:column;width:100%;margin:6px 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .bold,.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.achievement{display:flex;margin:4px 0}.achievement .icon{margin:0 4px;width:44px;height:44px}.achievement .text{font-size:12px;color:#666}.achievement .title{font-size:14px;color:#58a6ff}.achievement .gauge.info{color:#58a6ff}.achievement.x .title{color:#666}.achievement.x .gauge.info{color:#b0b0b0}.achievement.b .title{color:#9d8fff}.achievement.b .gauge.info{color:#9e91ff}.achievement.a .title{color:#d79533}.achievement.a .gauge.info{color:#e7bd69}.achievement.s .gauge.info,.achievement.s .title{color:#eb355e}.achievement.secret .title{color:#ff76cd}.achievement.secret .gauge.info{color:#ff79d1}.achievement .gh{border:1px solid currentColor;border-radius:16px;font-size:10px;padding:0 5px;white-space:nowrap}.achievement .gauge-arc,.achievement .gauge-base{stroke-width:6}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}.gemoji{height:1em;width:1em;margin-bottom:-.125em}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}.gauge text,h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.gauge{stroke-linecap:round;fill:none}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.repository{display:flex;flex-direction:column;width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .bold,.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.added{color:#3fb950}.deleted{color:#da3633}.achievement{display:flex;margin:4px 0}.achievement .icon{margin:0 4px;width:44px;height:44px}.achievement .text{font-size:12px;color:#666}.achievement .title{font-size:14px;color:#58a6ff}.achievement .gauge.info{color:#58a6ff}.achievement.x .title{color:#666}.achievement.x .gauge.info{color:#b0b0b0}.achievement.b .title{color:#9d8fff}.achievement.b .gauge.info{color:#9e91ff}.achievement.a .title{color:#d79533}.achievement.a .gauge.info{color:#e7bd69}.achievement.s .gauge.info,.achievement.s .title{color:#eb355e}.achievement.secret .title{color:#ff76cd}.achievement.secret .gauge.info{color:#ff79d1}.achievement .gh{border:1px solid currentColor;border-radius:16px;font-size:10px;padding:0 5px;white-space:nowrap}.achievement .gauge-arc,.achievement .gauge-base{stroke-width:6}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}.gemoji{height:1em;width:1em;margin-bottom:-.125em}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -15,6 +15,219 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 21 commits in
+                                        <span class="repo">RF-Tar-Railt/lagrange-python</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">broken</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#8c52d23</div>
+                                        <div class="message">chore(ver): change pdm script</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c41ec81</div>
+                                        <div class="message">fix(workflow): release</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#93e7634</div>
+                                        <div class="message">feat(ver): v0.1.0 release</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4d27835</div>
+                                        <div class="message">Merge remote-tracking branch 'origin/broken' into back</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#aa43abd</div>
+                                        <div class="message">fix(log): set_level fail (#17)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#acea861</div>
+                                        <div class="message">feat(workflow): auto publish when release</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6dbf269</div>
+                                        <div class="message">fix(client): get_friend_list part (#23)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b6eff2a</div>
+                                        <div class="message">Again... (#21)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3958aad</div>
+                                        <div class="message">Revert "feat: support get_friend_list (#18)" (#20)
+
+This reverts commit 3d5dc241e61350f6b1b7ec8f6118670ba73d108f.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3d5dc24</div>
+                                        <div class="message">feat: support get_friend_list (#18)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#770c0df</div>
+                                        <div class="message">feat(event): add GroupSign</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2a02b3c</div>
+                                        <div class="message">fix(msg): error on parsing GroupNudge</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d8bf6b0</div>
+                                        <div class="message">fix(server_push): multiple subscribe</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0a861c4</div>
+                                        <div class="message">chore(server_push): bind necessary service by default</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0036939</div>
+                                        <div class="message">chore(info): add InfoManager.renew_sig_info</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2f4a835</div>
+                                        <div class="message">feat(event): add GroupReaction &amp; GroupNudge</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b9ba1cd</div>
+                                        <div class="message">feat(client): refactor `PushDeliver` to support DI &amp; adapt image parsing to the new protocol (#16)
+
+* feat(utils): change the request method of sign to POST
+
+* refactor(client): refactor `PushDeliver` to support dependency injection of Client
+
+* fix(client): fixed parsing images in the new protocol
+- ref: https://github.com/LagrangeDev/Lagrange.Core/commit/ef6b41b771624ade51b1662cb66d4fd66d5effd5</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f7d1ff7</div>
+                                        <div class="message">update new protocol</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#bdc5f91</div>
+                                        <div class="message">feat(main): separate main.py &amp; support loguru (#14)
+
+* chore: separate main.py
+
+* feat(log): support loguru as optional dependency
+
+* feat: correctly shutdown
+
+* fix: revert log of install_loguru</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f13fe1d</div>
+                                        <div class="message">feat(utils): change the request method of sign to POST (#13)</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 18 commits in
+                                        <span class="repo">RF-Tar-Railt/nekobox</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#4ea9e3c</div>
+                                        <div class="message">fix(main): NoSectionError on generating cfg</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#35f99c0</div>
+                                        <div class="message">fix(workflow): actions...</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#fec198d</div>
+                                        <div class="message">fix(name): wrong project name on pyproject.toml</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#472c598</div>
+                                        <div class="message">fix(lock): update pdm lock version</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a367bbc</div>
+                                        <div class="message">feat(ver): v0.1.0 release</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#caca3af</div>
+                                        <div class="message">feat(event): add reaction added &amp; deleted</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#97905aa</div>
+                                        <div class="message">feat(api): add reaction create &amp; delete</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d42f333</div>
+                                        <div class="message">feat(api): add friend_list</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#32380df</div>
+                                        <div class="message">feat(msgid): change msgid style</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9dfe375</div>
+                                        <div class="message">chore(dep): update &amp; lock dependency</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7bee00d</div>
+                                        <div class="message">chore(consts): change PLATFORM to nekobox</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0874122</div>
+                                        <div class="message">chore(handler): ignore empty message</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e45568b</div>
+                                        <div class="message">feat(transformer): add 'Template' support</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7d3c9ce</div>
+                                        <div class="message">chore(dep): update dependency</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9e9a613</div>
+                                        <div class="message">fix(dep): set upstream branches to LagrangeDev</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#66c2f3f</div>
+                                        <div class="message">merge local changes manually</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#46fea74</div>
+                                        <div class="message">fix(login): siginfo expired</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e085ac7</div>
+                                        <div class="message">feat: upgrade &amp; cli (#1)
+
+* feat: upgrade
+
+* feat: CLI
+
+* chore: update README.md
+
+* chore: update log
+
+* chore: update README.md
+
+* feat: format &amp; new api &amp; new event &amp; AtAll</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -83,38 +296,6 @@
                                         in
                                         <span class="repo">RF-Tar-Railt/satori-python</span>
                                     </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M8.878.392a1.75 1.75 0 00-1.756 0l-5.25 3.045A1.75 1.75 0 001 4.951v6.098c0 .624.332 1.2.872 1.514l5.25 3.045a1.75 1.75 0 001.756 0l5.25-3.045c.54-.313.872-.89.872-1.514V4.951c0-.624-.332-1.2-.872-1.514L8.878.392zM7.875 1.69a.25.25 0 01.25 0l4.63 2.685L8 7.133 3.245 4.375l4.63-2.685zM2.5 5.677v5.372c0 .09.047.171.125.216l4.625 2.683V8.432L2.5 5.677zm6.25 8.271l4.625-2.683a.25.25 0 00.125-.216V5.677L8.75 8.432v5.516z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Released
-                                        <span class="bold">Satori-Python 0.13.3</span>
-                                        of
-                                        <span class="repo">RF-Tar-Railt/satori-python</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path d="M11.28 6.78a.75.75 0 00-1.06-1.06L7.25 8.69 5.78 7.22a.75.75 0 00-1.06 1.06l2 2a.75.75 0 001.06 0l3.5-3.5z"/>
-                                        <path fill-rule="evenodd" d="M16 8A8 8 0 110 8a8 8 0 0116 0zm-1.5 0a6.5 6.5 0 11-13 0 6.5 6.5 0 0113 0z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Closed
-                                        <span class="issue">#13 [Bug] server运行失败</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by hhhhhge in <span class="repo">RF-Tar-Railt/satori-python</span></div>
                                 </div>
                             </section>
                         </div>
@@ -612,7 +793,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 445k out of 210m repositories</span>
+                                    <span class="gh">ranked 445k out of 189m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 78 stars</div>
                             </div>
@@ -658,7 +839,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 2.73m out of 210m repositories</span>
+                                    <span class="gh">ranked 2.73m out of 189m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 3 times</div>
                             </div>
@@ -838,7 +1019,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 17 Aug 2024, 09:15:23 (timezone Asia/Shanghai) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 17 Aug 2024, 14:23:14 (timezone Asia/Shanghai) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
