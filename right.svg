@@ -718,7 +718,7 @@ This reverts commit 3d5dc241e61350f6b1b7ec8f6118670ba73d108f.</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 445k out of 212m repositories</span>
+                                    <span class="gh">ranked 445k out of 210m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 78 stars</div>
                             </div>
@@ -764,7 +764,7 @@ This reverts commit 3d5dc241e61350f6b1b7ec8f6118670ba73d108f.</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 2.73m out of 212m repositories</span>
+                                    <span class="gh">ranked 2.73m out of 210m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 3 times</div>
                             </div>
@@ -944,7 +944,7 @@ This reverts commit 3d5dc241e61350f6b1b7ec8f6118670ba73d108f.</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 18 Aug 2024, 02:22:32 (timezone Asia/Shanghai) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 18 Aug 2024, 09:22:16 (timezone Asia/Shanghai) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
