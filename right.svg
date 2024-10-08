@@ -607,7 +607,7 @@ fxxk pydantic
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 444k out of 198m repositories</span>
+                                    <span class="gh">ranked 444k out of 217m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 80 stars</div>
                             </div>
@@ -653,7 +653,7 @@ fxxk pydantic
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 2.26m out of 198m repositories</span>
+                                    <span class="gh">ranked 2.26m out of 217m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 4 times</div>
                             </div>
@@ -833,7 +833,7 @@ fxxk pydantic
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 8 Oct 2024, 02:25:34 (timezone Asia/Shanghai) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 8 Oct 2024, 09:25:59 (timezone Asia/Shanghai) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
