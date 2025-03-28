@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1617" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1644" class="">
     <defs>
         <style/>
     </defs>
@@ -15,6 +15,23 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Commented on
+                                        <span class="issue">#21 Bug: 出现异常</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by zhen-xq in <span class="repo">RF-Tar-Railt/nonebot-plugin-arkgacha</span></div>
+                                    <div class="comment">先运行一次"方舟抽卡 更新"试试</div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -116,23 +133,6 @@ resolve #91
                                     <div>opened by watshon14 in <span class="repo">nonebot/nonebot2</span></div>
                                     <div class="comment">需要明确的是，上架 NoneBot 插件商店并不是使用插件的必要条件，可参考文档“加载插件”一节。
 在上架插件时，请确认插件有上架分享的必要，并且确保已阅读文档的上架插件教程，以避免不必要的人员审核精力开支。编写公共使用的插件需要一定的 Python 知识及 Python 项目开发知识，可以参考 Python 文档及 NoneBot 社区已有项目进行学习。</div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path d="M11.28 6.78a.75.75 0 00-1.06-1.06L7.25 8.69 5.78 7.22a.75.75 0 00-1.06 1.06l2 2a.75.75 0 001.06 0l3.5-3.5z"/>
-                                        <path fill-rule="evenodd" d="M16 8A8 8 0 110 8a8 8 0 0116 0zm-1.5 0a6.5 6.5 0 11-13 0 6.5 6.5 0 0113 0z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Closed
-                                        <span class="issue">#3405 Plugin: 自动获取漫画并转换为pdf</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by mujya in <span class="repo">nonebot/nonebot2</span></div>
                                 </div>
                             </section>
                         </div>
@@ -302,7 +302,7 @@ resolve #91
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="31.339493497604376 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="31.42436687200547 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -405,7 +405,7 @@ resolve #91
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="96.58291457286433 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="98.14070351758794 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -433,7 +433,7 @@ resolve #91
                                     <span class="prefix"></span>
                                     Contributor
                                 </div>
-                                <div class="text">Opened 125 pull requests</div>
+                                <div class="text">Opened 127 pull requests</div>
                             </div>
                         </div>
                         <div class="achievement c largeable-width-half">
@@ -630,7 +630,7 @@ resolve #91
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 378k out of 223m repositories</span>
+                                    <span class="gh">ranked 378k out of 239m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 106 stars</div>
                             </div>
@@ -676,7 +676,7 @@ resolve #91
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 2.35m out of 223m repositories</span>
+                                    <span class="gh">ranked 2.35m out of 239m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 4 times</div>
                             </div>
@@ -924,7 +924,7 @@ resolve #91
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 28 Mar 2025, 20:40:16 (timezone Asia/Shanghai) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 29 Mar 2025, 02:29:44 (timezone Asia/Shanghai) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
